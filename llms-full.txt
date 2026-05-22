@@ -1,0 +1,53 @@
+# Drummondville
+
+> Geotechnical engineering company in United States, providing professional services in soil mechanics, foundation engineering and site investigation.
+
+## Services
+- [Base Isolation Seismic Design](https://drummondville.geotechnicalengineering.xyz/base-isolation-seismic-design/)
+- [Bearing Capacity Analysis](https://drummondville.geotechnicalengineering.xyz/bearing-capacity-analysis/)
+- [Cone Penetration](https://drummondville.geotechnicalengineering.xyz/cone-penetration/)
+- [Debris Flow Analysis](https://drummondville.geotechnicalengineering.xyz/debris-flow-analysis/)
+- [Expansive Soil Evaluation](https://drummondville.geotechnicalengineering.xyz/expansive-soil-evaluation/)
+- [Flat Dilatometer](https://drummondville.geotechnicalengineering.xyz/flat-dilatometer/)
+- [Foundations](https://drummondville.geotechnicalengineering.xyz/foundations/)
+- [Geocell Design](https://drummondville.geotechnicalengineering.xyz/geocell-design/)
+- [Geogrid Specification](https://drummondville.geotechnicalengineering.xyz/geogrid-specification/)
+- [Geomembrane Specification](https://drummondville.geotechnicalengineering.xyz/geomembrane-specification/)
+- [Geophysics](https://drummondville.geotechnicalengineering.xyz/geophysics/)
+- [Geotechnical Design Deep Excavations](https://drummondville.geotechnicalengineering.xyz/geotechnical-design-deep-excavations/)
+- [Geotechnical Drainage Design](https://drummondville.geotechnicalengineering.xyz/geotechnical-drainage-design/)
+- [Geotechnical Road Drainage](https://drummondville.geotechnicalengineering.xyz/geotechnical-road-drainage/)
+- [Ground Improvement](https://drummondville.geotechnicalengineering.xyz/ground-improvement/)
+- [Hvsr Microtremor Survey](https://drummondville.geotechnicalengineering.xyz/hvsr-microtremor-survey/)
+- [In Situ Testing](https://drummondville.geotechnicalengineering.xyz/in-situ-testing/)
+- [Investigation](https://drummondville.geotechnicalengineering.xyz/investigation/)
+- [Laboratory](https://drummondville.geotechnicalengineering.xyz/laboratory/)
+- [Laboratory Permeability](https://drummondville.geotechnicalengineering.xyz/laboratory-permeability/)
+- [Landfill Geotechnics](https://drummondville.geotechnicalengineering.xyz/landfill-geotechnics/)
+- [Menard Pressuremeter](https://drummondville.geotechnicalengineering.xyz/menard-pressuremeter/)
+- [Organic Soil Management](https://drummondville.geotechnicalengineering.xyz/organic-soil-management/)
+- [Prefabricated Vertical Drain](https://drummondville.geotechnicalengineering.xyz/prefabricated-vertical-drain/)
+- [Preloading Surcharge Design](https://drummondville.geotechnicalengineering.xyz/preloading-surcharge-design/)
+- [Raft Mat Foundation Design](https://drummondville.geotechnicalengineering.xyz/raft-mat-foundation-design/)
+- [Retaining Wall Design](https://drummondville.geotechnicalengineering.xyz/retaining-wall-design/)
+- [Road Embankment Design](https://drummondville.geotechnicalengineering.xyz/road-embankment-design/)
+- [Roadway](https://drummondville.geotechnicalengineering.xyz/roadway/)
+- [Seismic](https://drummondville.geotechnicalengineering.xyz/seismic/)
+- [Seismic Amplification Analysis](https://drummondville.geotechnicalengineering.xyz/seismic-amplification-analysis/)
+- [Shear Wave Velocity](https://drummondville.geotechnicalengineering.xyz/shear-wave-velocity/)
+- [Site Response Analysis](https://drummondville.geotechnicalengineering.xyz/site-response-analysis/)
+- [Slope Stability Analysis](https://drummondville.geotechnicalengineering.xyz/slope-stability-analysis/)
+- [Slope Stabilization Design](https://drummondville.geotechnicalengineering.xyz/slope-stabilization-design/)
+- [Slopes Walls](https://drummondville.geotechnicalengineering.xyz/slopes-walls/)
+- [Soil Erosion Analysis](https://drummondville.geotechnicalengineering.xyz/soil-erosion-analysis/)
+- [Soil Mechanics Study](https://drummondville.geotechnicalengineering.xyz/soil-mechanics-study/)
+- [Standard Modified](https://drummondville.geotechnicalengineering.xyz/standard-modified/)
+- [Standard Penetration](https://drummondville.geotechnicalengineering.xyz/standard-penetration/)
+- [Underground Excavations](https://drummondville.geotechnicalengineering.xyz/underground-excavations/)
+
+## Contact
+- Website: https://drummondville.geotechnicalengineering.xyz/
+
+## About
+This page provides information about geotechnical engineering services available in United States.
+The company complies with local and international standards including ASTM, ISO and country-specific norms.
